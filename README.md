@@ -203,5 +203,5 @@ This project is licensed under the MIT License.
 ## 🙋 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+📧 jyojyotsna72@gmail.com  
+🔗 www.linkedin.com/in/jyotsna-b-586498373| [GitHub](https://github.com/your-username)
