@@ -29,22 +29,29 @@ climasense-anomaly-detection/
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle](https://www.kaggle.com/) — Climate Dataset (50,000 records)
-- **File:** `50k.csv`
-- **Coverage:** 7-month period of temperature observations across multiple geographic locations
+- **Source:** [2024 Climate Data India (Kaggle)](https://www.kaggle.com/datasets/shreelearn/2024-climate-data-india)
+- **Platform:** Kaggle
+- **Type:** Preprocessed & Reduced Dataset (50,000 records)
 
-| Feature | Description |
-|---|---|
-| `latitude` | Geographic latitude of the recorded temperature |
-| `longitude` | Geographic longitude of the recorded temperature |
-| `t2m` | 2-metre surface air temperature (Kelvin) |
-| `u100` | U-component of wind at 100m |
-| `v100` | V-component of wind at 100m |
-| `msl` | Mean sea level pressure |
-| `time` | Timestamp of the temperature recording |
+> ⚠️ The dataset is originally sourced from Kaggle and has been preprocessed, cleaned, and reduced for this project.
+> Due to Kaggle's usage policies and file size limits, the dataset is not included in this repository.
 
-> ⚠️ The dataset is not included in this repository due to Kaggle's terms of use. Please download it directly from Kaggle and place it as `50k.csv` in the project root.
+---
 
+### 📥 How to Use Dataset
+
+1. Go to the dataset link above  
+2. Download the dataset from Kaggle  
+3. Rename the file to `50k.csv` (if required)  
+4. Upload it into your working environment (Google Colab / Local system)
+
+### 📌 Data Preprocessing
+
+- Reduced dataset from ~200,000 to 50,000 records  
+- Removed missing values and duplicates  
+- Applied feature selection and correlation filtering  
+- Normalized numerical features  
+- Generated anomaly labels using quantile thresholds  
 ---
 
 ## 🛠️ Tech Stack
