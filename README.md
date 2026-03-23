@@ -204,4 +204,4 @@ This project is licensed under the MIT License.
 
 **Your Name**  
 📧 jyojyotsna72@gmail.com  
-🔗 www.linkedin.com/in/jyotsna-b-586498373| [GitHub](https://github.com/your-username)
+🔗 www.linkedin.com/in/jyotsna-b-586498373| https://github.com/JYOYSNA07B
