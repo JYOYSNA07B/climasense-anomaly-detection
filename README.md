@@ -209,6 +209,6 @@ This project is licensed under the MIT License.
 
 ## 🙋 Author
 
-**Your Name**  
+**JYOTSNA B**  
 📧 jyojyotsna72@gmail.com  
 🔗 www.linkedin.com/in/jyotsna-b-586498373| https://github.com/JYOYSNA07B
